@@ -1,4 +1,8 @@
-readme
+Project usage
 
-//console (in css folder)
-//sass --watch style.scss:style.css
+Project is using sass/scss.
+- Make sure you have sass installed.
+- Always use the scss files when changing something.
+- Make sure you watch the scss file in the console:
+   Navigate with the console to the css folder and type: sass --watch style.scss:style.css
+   
