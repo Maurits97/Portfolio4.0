@@ -1,0 +1,4 @@
+readme
+
+//console (in css folder)
+//sass --watch style.scss:style.css
